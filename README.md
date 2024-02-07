@@ -13,3 +13,9 @@ In the face of accelerating climate change, our team is tasked with analyzing in
 - **Rajeev Prasad** -
 - **Chris Pleman** - Data visualization authority with proficiency in Altair, Power BI, pandas, and NumPy for robust analytical solutions.
 
+## Current RoadMap
+
+- **Problem Statement**: After spending a couple to few days, need to create a concrete problem statement that will be our presentation
+- **Use** prexisting visualizations and create new visualizations for our business problem
+- **Create Slide Deck and Record 8 Minute Presentation due Feb 11th 8:00 PM EST
+
