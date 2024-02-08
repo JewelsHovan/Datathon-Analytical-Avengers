@@ -3,7 +3,15 @@ A collaborative repository by Team 10: Analytical Aces, dedicated to analyzing a
 
 ## Problem Statement
 
-In the face of accelerating climate change, our team is tasked with analyzing industry-specific greenhouse gas emissions data. The challenge is to delve into datasets provided, ask critical questions, and apply data science methodologies to uncover insights. The end goal is not only to discern patterns and identify industry-specific emission trends but also to propose actionable strategies that could mitigate the environmental impact. This analytical endeavor aims to contribute meaningfully to the dialogue on sustainable practices.
+In the face of accelerating climate change, our team is focused on analyzing greenhouse gas emissions data with the intent to propose strategies for universities to significantly reduce their carbon footprint.  We see opportunities in identifying major sources of emissions and proposing solutions within areas like waste management, energy use, and transportation.
+
+## Proposed Solution
+
+To support decision-making for universities, we're developing a tool/dashboard to empower key stakeholders. This tool will:
+
+* Visualize a  university's current carbon footprint.
+* Highlight emissions reduction potential based on actionable changes.
+* Provide an ESG-inspired rating to emphasize environmental responsibility, potentially improving investor appeal. 
 
 ## Team Members
 
@@ -15,7 +23,8 @@ In the face of accelerating climate change, our team is tasked with analyzing in
 
 ## Current RoadMap
 
-- **Problem Statement**: After spending a couple to few days, need to create a concrete problem statement that will be our presentation
-- **Use** prexisting visualizations and create new visualizations for our business problem
-- **Create Slide Deck and Record 8 Minute Presentation due Feb 11th 8:00 PM EST
+- **Finalize Focused Problem Statement** - Prioritize addressing emissions reductions strategies specifically for universities.
+- **Data Exploration and Visualization** - Target emission sources on university campuses with the goal of proposing waste-to-energy and other mitigation tactics.
+- **Dashboard Development** - Create a proof-of-concept and a mock-up dashboard featuring carbon footprint visualization, impact of changes, and an ESG-inspired score.
+- **Presentation** - Craft a compelling narrative explaining the problem, solution, and the anticipated benefits for universities including cost savings, sustainability leadership, and enhanced student and investor appeal.
 
