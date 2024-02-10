@@ -1,30 +1,28 @@
-# Datathon 2024-Analytical-Aces
-A collaborative repository by Team 10: Analytical Aces, dedicated to analyzing and deriving insights from greenhouse gas emissions data across various industries. Our goal is to uncover patterns, trends, and potential strategies for reducing environmental impact, leveraging data science and analytics to contribute to sustainable solutions.
+# Datathon 2024 - Analytical Aces
+Welcome to the collaborative repository of Team 10: Analytical Aces. Our mission is to delve into greenhouse gas emissions data across various industries, uncovering patterns, trends, and strategizing on reducing environmental impacts. Through the lens of data science and analytics, we aim to contribute to sustainable solutions.
 
 ## Problem Statement
-
-In the face of accelerating climate change, our team is focused on analyzing greenhouse gas emissions data with the intent to propose strategies for universities to significantly reduce their carbon footprint.  We see opportunities in identifying major sources of emissions and proposing solutions within areas like waste management, energy use, and transportation.
+As climate change accelerates, our focus sharpens on greenhouse gas emissions data analysis. Our objective is to draft strategies for universities to significantly curtail their carbon footprint, pinpointing major emissions sources and suggesting improvements in waste management, energy consumption, and transportation.
 
 ## Proposed Solution
-
-To support decision-making for universities, we're developing a tool/dashboard to empower key stakeholders. This tool will:
-
-* Visualize a  university's current carbon footprint.
-* Highlight emissions reduction potential based on actionable changes.
-* Provide an ESG-inspired rating to emphasize environmental responsibility, potentially improving investor appeal. 
+We're crafting a tool/dashboard designed to aid university decision-makers by:
+- Showcasing potential emissions reductions through actionable modifications.
+- Introducing an ESG-inspired rating to underscore environmental stewardship, potentially enhancing investor attraction.
 
 ## Team Members
-
-- **Gretchen Lam** - Specializes in data visualization using seaborn, Altair, and pandas for insightful data representation.
-- **Julien Hovan** - Brings expertise in web development, statistical analysis, and data analysis with R/Python, Microsoft Azure, and PowerBi.
-- **Luis Gallego** - Python expert with a focus on Pytorch, SKlearn for advanced analysis, and visualization techniques.
+- **Gretchen Lam** - Expert in data visualization with seaborn, Altair, and pandas.
+- **Julien Hovan** - Skilled in web development, statistical analysis, and data analysis with R/Python, Microsoft Azure, and PowerBi.
+- **Luis Gallego** - Specializes in Python, with a focus on Pytorch, SKlearn for cutting-edge analysis and visualization.
 - **Rajeev Prasad** -
-- **Chris Pleman** - Data visualization authority with proficiency in Altair, Power BI, pandas, and NumPy for robust analytical solutions.
+- **Chris Pleman** - Authority in data visualization, proficient in Altair, Power BI, pandas, and NumPy.
 
 ## Current RoadMap
+- **Finalize Focused Problem Statement** - Concentrate on emission reduction strategies for universities.
+- **Data Exploration and Visualization** - Identify emission sources in university settings to propose waste-to-energy and other mitigation strategies.
+- **Dashboard Development** - Develop a proof-of-concept and a mock-up dashboard to visualize carbon footprints, the impact of proposed changes, and an ESG-inspired score.
+- **Presentation** - Create a compelling story around the identified problem, proposed solution, and expected benefits for universities, including cost savings, leadership in sustainability, and increased appeal to students and investors.
 
-- **Finalize Focused Problem Statement** - Prioritize addressing emissions reductions strategies specifically for universities.
-- **Data Exploration and Visualization** - Target emission sources on university campuses with the goal of proposing waste-to-energy and other mitigation tactics.
-- **Dashboard Development** - Create a proof-of-concept and a mock-up dashboard featuring carbon footprint visualization, impact of changes, and an ESG-inspired score.
-- **Presentation** - Craft a compelling narrative explaining the problem, solution, and the anticipated benefits for universities including cost savings, sustainability leadership, and enhanced student and investor appeal.
+## Plan of Action
+In our journey to foster data transparency, we are embracing a second approach centered around individuals and local communities (state, city, county). We believe in the power of consumer choices and policy voting to drive meaningful change. By making information on emissions and climate change accessible, we aim to empower individuals to make informed decisions and advocate for substantial policy changes. Our application is designed to be a catalyst for this transformation, enabling users to become active participants in shaping a sustainable future through increased awareness and actionable insights.
 
+---
